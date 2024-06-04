@@ -1,3 +1,3 @@
 /node_modules
-/firestore-serviceaccount
+/firestore-serviceaccount.json
 package-lock.json
